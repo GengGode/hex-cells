@@ -1,0 +1,14 @@
+{
+    "configs" : {
+        "JE_EDITOR_GENERATE_VFILE_FOR_WOOLY" : "false",
+        "JE_ENGINE_TIME_MAX_DELTATIME" : "0.200000",
+        "JE_ENGINE_TIME_SLEEP_SUPPRESSION" : "0.000500",
+        "JE_GUI_FONT" : "[\"@/resource/font/HarmonyOS_Sans_SC_Regular.ttf\",\"@/resource/font/JetBrainsMono_Regular.ttf\",18]",
+        "JE_PROJECT_DESCRIBE" : "新项目，你可以在这里编辑项目的描述文本",
+        "JE_PROJECT_EDITOR_SYSTEM" : "Editor::DefaultEditorSystem"
+    },
+    "modules" : [
+
+    ],
+    "name" : "hex-cells"
+}

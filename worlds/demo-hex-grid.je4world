@@ -1,0 +1,36 @@
+{
+    "debug_camera" : {
+        "camera_in_2d_light" : false,
+        "camera_in_2d_mode" : false,
+        "camera_rotation" : [
+            0.000000,
+            0.000000,
+            0.000000,
+            1.000000
+        ],
+        "root_position" : [
+            0.000000,
+            0.000000,
+            0.000000
+        ],
+        "root_rotation" : [
+            0.000000,
+            0.000000,
+            0.000000,
+            1.000000
+        ]
+    },
+    "entities" : [
+
+    ],
+    "name" : "demo-hex-grid",
+    "remark" : "",
+    "runtime_systems" : [
+        "Animation::FrameAnimationSystem",
+        "Script::ScriptRuntimeSystem"
+    ],
+    "systems" : [
+        "Graphic::UnlitGraphicPipelineSystem",
+        "Translation::TranslationUpdatingSystem"
+    ]
+}
